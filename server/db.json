@@ -1,0 +1,76 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "kavyaa",
+      "email": "kavya@gmail.com",
+      "mobile": "1234",
+      "salary": "100000"
+    },
+    {
+      "id": 2,
+      "name": "loki",
+      "email": "loki@gmail.com",
+      "mobile": "8765",
+      "salary": "120000"
+    },
+    {
+      "id": 3,
+      "name": "lk",
+      "email": "lk@gmail.com",
+      "mobile": "2823",
+      "salary": "7918748927489"
+    },
+    {
+      "id": 4,
+      "name": "lk",
+      "email": "lk@gmail.com",
+      "mobile": "666565",
+      "salary": "56565"
+    },
+    {
+      "id": 6,
+      "name": "lokiiiii",
+      "email": "123@gmail.com",
+      "mobile": "5456465",
+      "salary": "877787"
+    }
+  ],
+  "users": [
+    {
+      "name": "kavya",
+      "email": "kavya@gmail.com",
+      "pswd": "1234",
+      "cpswd": "1234",
+      "id": 1
+    },
+    {
+      "name": "lokii",
+      "email": "lokii@gmail.com",
+      "pswd": "123",
+      "cpswd": "123",
+      "id": 2
+    },
+    {
+      "name": "kavya",
+      "email": "123@gmail.com",
+      "pswd": "1234",
+      "cpswd": "1234",
+      "id": 3
+    },
+    {
+      "name": "lokii",
+      "email": "123@gmail.com",
+      "pswd": "1234",
+      "cpswd": "1234",
+      "id": 4
+    },
+    {
+      "name": "lokesh",
+      "email": "loki@gmail.com",
+      "pswd": "123",
+      "cpswd": "123",
+      "id": 5
+    }
+  ]
+}
